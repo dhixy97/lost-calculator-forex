@@ -269,7 +269,7 @@ export default function LotCalculator() {
                         className="w-full bg-[#0d131a] border border-slate-700/60 rounded-xl py-2.5 px-3 text-sm font-semibold text-white focus:outline-none focus:border-emerald-500"
                       />
                       <span className="absolute right-3 top-2.5 text-xs text-slate-500 font-medium">
-                        LOTS
+                        USD/LOTS
                       </span>
                     </div>
                   </div>
